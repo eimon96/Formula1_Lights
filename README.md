@@ -12,8 +12,6 @@ Photos:
 
 -------------------------------------------------------------------------------------------------
 
-I will not document this cause it's not much of a deal really (except the cable management... ) 
-
 You can find some useful stuff here:
 
 https://github.com/eimon96/Arduino_Coursera/tree/main/formula1_startingLeds
